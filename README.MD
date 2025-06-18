@@ -22,7 +22,7 @@ Este projeto é uma aplicação Java com interface gráfica que utiliza a biblio
 > Se a execução do script PowerShell for bloqueada, continue lendo abaixo.
 
 Se ao tentar rodar o .ps1 você receber uma mensagem de erro dizendo que a execução de scripts está desabilitada, rode o seguinte comando no PowerShell como usuário normal (não precisa ser admin):
-    > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+> Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ---
 
@@ -30,4 +30,4 @@ Se ao tentar rodar o .ps1 você receber uma mensagem de erro dizendo que a execu
 
 1. Abra o PowerShell na pasta do projeto.
 2. Execute o script:
-    > .\execute.ps1
+> .\execute.ps1
